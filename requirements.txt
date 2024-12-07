@@ -1,0 +1,6 @@
+pandas
+numpy
+scipy
+flask
+python-dotenv
+groq
